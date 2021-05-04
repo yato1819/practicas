@@ -11,6 +11,5 @@ escribir "el total de la compra sera de =",C;
 Sino
 escribir "no se le hara descuento";
 Finsi
-Finsi
 
 finalgoritmo
